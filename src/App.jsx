@@ -2,8 +2,8 @@
 import { useEffect, useState } from 'react'
 import './App.css'
 
-const API = 'http://localhost:8081/api'
-const SERVER = 'http://localhost:8081'
+const API = 'https://campus-lost-found-backend-23wv.onrender.com/api'
+const SERVER = 'https://campus-lost-found-backend-23wv.onrender.com'
 
 const categoryIcons = {
   Wallet: '▰',
